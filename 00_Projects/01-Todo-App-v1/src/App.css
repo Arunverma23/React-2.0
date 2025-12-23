@@ -1,0 +1,23 @@
+h1 {
+    font-weight: 800;
+    color: rgb(255, 145, 0);
+    margin: 30px;
+    margin-bottom: 35px;
+}
+
+input {
+    width: 100%;
+}
+
+.items-container{
+    text-align: left;
+}
+
+.rrow {
+   margin: 10px 5px; 
+}
+
+.bbutton {
+    min-width: 80px
+}
+
